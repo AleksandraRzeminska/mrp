@@ -38,7 +38,7 @@ def oblicz_mrp(nazwa, poziom, lead_time, zapotrzebowanie_brutto, stan_poczatkowy
     
     return zamowienia
 
-# --- PROGRAM GŁÓWNY (Scenariusz) ---
+# --- PROGRAM GŁÓWNY (Przykład - rower) ---
 
 horyzont = 6  # 6 tygodni
 # Puste listy na zapotrzebowanie (początkowo wszędzie zero)
